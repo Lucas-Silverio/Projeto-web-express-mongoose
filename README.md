@@ -1,2 +1,3 @@
 # Projeto-web-express-mongoose
-express node js mongoose
+
+projeto feito com express e mongoose
